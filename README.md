@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # Hello Java Maven – Jenkins CI/CD Task
 
 This repository contains a simple Java project built with Maven, used to demonstrate a **Jenkins Freestyle Job** build for Task 8 of the DevOps tasks.
@@ -92,5 +92,3 @@ when running the JAR file.
 
  
 
-Do you want me to add that?
-```
